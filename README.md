@@ -28,4 +28,4 @@ Pair Programming Javascript
 ## Credits 
 
 - Credits d'image [Photofunia]( https://photofunia.com/effects/retro-wave)
-- Credits font [font](https://www.dafont.com/over-there.font?text=alien+clicker)
+- Credits font [Dafont](https://www.dafont.com/over-there.font?text=alien+clicker)
