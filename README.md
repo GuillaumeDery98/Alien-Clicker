@@ -10,7 +10,7 @@ Le but du jeu est de collecter des aliens en cliquant sur une planète géante j
 
 
 
-## Langages utilisés
+## Technologies utilisées
 
 - HTML
 - CSS
