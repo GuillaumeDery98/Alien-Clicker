@@ -1,9 +1,7 @@
 # Aliens-clicker
 
 
-Le but du jeu est de collecter des aliens en cliquant sur une planète géante jusqu'à ce que vous ayez assez d'aliens pour acheter des améliorations comme des multiplicateur qui multiplie les cliques ou un auto clique qui génère des cliques automatiques, il y a également un bonus qui offre une mise de 200%.
-
-Le gameplay sans fin en fait un jeu qui peut durer une durée indéterminée, ou du moins jusqu'à ce que votre appareil ne puisse plus l'exécuter.
+Le but du jeu est de collecter des aliens en cliquant sur une planète géante jusqu'à ce que vous ayez assez d'aliens pour acheter des améliorations comme des multiplicateurs de cliques ou un générateur de cliques automatique, il y a également un bonus qui tout par deux pendant 30 secondes.
 
 
 
@@ -23,7 +21,7 @@ Le gameplay sans fin en fait un jeu qui peut durer une durée indéterminée, ou
 
 - Artist [Alice](https://github.com/Frankiethezombie)
 
-Pair Programming Java-Script
+Pair Programming Javascript
 - [Jinane](https://github.com/Zjinane)
 - [Guillaume](https://github.com/GuillaumeDery98)
 
