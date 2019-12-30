@@ -1,7 +1,7 @@
 # Aliens-clicker
 
 
-Le but du jeu est de collecter des aliens en cliquant sur une planète géante jusqu'à ce que vous ayez assez d'aliens pour acheter des améliorations comme des multiplicateurs de cliques ou un générateur de cliques automatique, il y a également un bonus qui vos cliques par deux pendant 30 secondes.
+Le but du jeu est de collecter des aliens en cliquant sur une planète géante jusqu'à ce que vous ayez assez d'aliens pour acheter des améliorations comme des multiplicateurs de cliques ou un générateur de cliques automatique, il y a également un bonus qui multiplie vos cliques par deux pendant 30 secondes.
 
 
 
