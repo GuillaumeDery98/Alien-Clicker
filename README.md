@@ -24,10 +24,8 @@ Le but du jeu est de collecter des aliens en cliquant sur une planète géante j
 ## Contribuant
 
 - Design [Alice](https://github.com/Frankiethezombie)
-
-Pair Programming Javascript
-- [Jinane](https://github.com/Zjinane)
-- [Guillaume Dery](https://github.com/GuillaumeDery98)
+- Javascript [Guillaume Dery](https://github.com/GuillaumeDery98)
+- Javascript [Jinane](https://github.com/Zjinane)
 
 ## Credits 
 
