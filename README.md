@@ -14,7 +14,7 @@ Le but du jeu est de collecter des aliens en cliquant sur une planète géante j
 
 - HTML
 - CSS
-- Java-script
+- Javascript
 
 ## Page finale
 
